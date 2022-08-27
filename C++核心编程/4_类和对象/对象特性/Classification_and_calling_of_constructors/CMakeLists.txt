@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.17)
+project(Classification_and_calling_of_constructors)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(Classification_and_calling_of_constructors main.cpp)
