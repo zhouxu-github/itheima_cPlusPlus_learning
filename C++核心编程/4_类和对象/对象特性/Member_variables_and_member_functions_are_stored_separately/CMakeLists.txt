@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.17)
+project(Member_variables_and_member_functions_are_stored_separately)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(Member_variables_and_member_functions_are_stored_separately main.cpp)
