@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.17)
+project(Handling_of_static_members_of_the_same_name_in_inheritance)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(Handling_of_static_members_of_the_same_name_in_inheritance main.cpp)
