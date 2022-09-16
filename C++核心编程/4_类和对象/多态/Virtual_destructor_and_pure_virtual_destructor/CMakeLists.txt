@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.17)
+project(Virtual_destructor_and_pure_virtual_destructor)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(Virtual_destructor_and_pure_virtual_destructor main.cpp)

@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.17)
+project(Pure_virtual_functions_and_abstract_classes)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(Pure_virtual_functions_and_abstract_classes main.cpp)
