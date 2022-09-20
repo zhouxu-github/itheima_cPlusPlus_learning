@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.17)
+project(Calling_Rules_for_Ordinary_Functions_and_Function_Templates)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(Calling_Rules_for_Ordinary_Functions_and_Function_Templates main.cpp)
