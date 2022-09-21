@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.17)
+project(Class_template_object_as_function_parameter)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(Class_template_object_as_function_parameter main.cpp)

@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.17)
+project(Difference_between_class_template_and_function_template)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(Difference_between_class_template_and_function_template main.cpp)

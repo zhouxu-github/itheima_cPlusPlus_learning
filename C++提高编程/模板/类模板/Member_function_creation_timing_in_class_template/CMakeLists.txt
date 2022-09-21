@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.17)
+project(Member_function_creation_timing_in_class_template)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(Member_function_creation_timing_in_class_template main.cpp)
