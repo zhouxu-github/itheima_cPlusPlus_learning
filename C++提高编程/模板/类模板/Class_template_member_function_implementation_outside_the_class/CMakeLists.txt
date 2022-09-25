@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.17)
+project(Class_template_member_function_implementation_outside_the_class)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(Class_template_member_function_implementation_outside_the_class main.cpp)
