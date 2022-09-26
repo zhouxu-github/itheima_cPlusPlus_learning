@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.17)
+project(Class_Template_Case_Array_Class_Encapsulation_Requirements_Analysis)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(Class_Template_Case_Array_Class_Encapsulation_Requirements_Analysis main.cpp MyArray.hpp)
