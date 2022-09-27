@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.17)
+project(Vector_container_to_store_custom_data_types)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(Vector_container_to_store_custom_data_types main.cpp)
